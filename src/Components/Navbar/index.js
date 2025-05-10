@@ -175,8 +175,8 @@ const Navbar = () => {
    <Nav>
     <NavbarContainer>
     <NavLogo to="/">
-  <DiCssdeck size="3rem" /> <Span>Yash Nikam</Span>
-</NavLogo>
+      <DiCssdeck size="3rem" color='white' /> <Span>Yash Nikam</Span>
+    </NavLogo>
 
         <MobileIcon>
         <FaBars onClick={() => {
